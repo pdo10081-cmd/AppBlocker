@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">AppBlocker</string>
-    <string name="accessibility_service_label">AppBlocker — блокировка приложений</string>
-    <string name="accessibility_description">Блокирует TikTok, YouTube и Chrome с 00:00 до 08:00 для здорового режима сна.</string>
-</resources>
